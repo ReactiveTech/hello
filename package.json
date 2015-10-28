@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/soybackend/hello/issues"
   },
-  "homepage": "https://github.com/soybackend/hello#readme"
+  "homepage": "https://github.com/soybackend/hello#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
